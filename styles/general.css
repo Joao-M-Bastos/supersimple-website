@@ -33,11 +33,11 @@ body {
     padding: 10px 10px 10px 10px;
     font-size: 13px;
     font-family: Arial;
+    display: inline-block;
 
     border-radius: 2px;
     cursor: pointer;
     margin-right: 5px;
-    margin-top: 30px;
     transition: opacity 50ms, background-color 300ms, color 300ms,border-color 300ms;
 }
 .button-return:hover {

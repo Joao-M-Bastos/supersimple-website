@@ -1,0 +1,35 @@
+.paintings{
+    width: 500px;
+    object-fit: contain;
+    display: inline-block;
+}
+
+.txt-search{
+    width: 100px;
+    display: block;
+}
+
+.painting-title{
+}
+
+.painting-info{
+}
+
+.painting-description{
+}
+
+.painting-image{
+    display:inline-block;
+}
+
+.painting-body{
+    display:inline-block;
+    vertical-align: top;
+}
+
+
+
+.painting-preview{
+    margin-top: 20px;
+    display:block;
+}
