@@ -13,6 +13,11 @@
 }
 
 .painting-info{
+    display: block;
+}
+
+.text-painting-info{
+    display: inline-block;
 }
 
 .painting-description{
@@ -30,6 +35,6 @@
 
 
 .painting-preview{
-    margin-top: 20px;
+    margin-top: 30px;
     display:block;
 }
