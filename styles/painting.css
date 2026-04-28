@@ -10,6 +10,7 @@
 }
 
 .painting-title{
+    font-size: 30px;
 }
 
 .painting-info{
@@ -18,6 +19,7 @@
 
 .text-painting-info{
     display: inline-block;
+    opacity: 0.8;
 }
 
 .painting-description{
@@ -35,6 +37,6 @@
 
 
 .painting-preview{
-    margin-top: 30px;
+    margin-top: 20px;
     display:block;
 }
