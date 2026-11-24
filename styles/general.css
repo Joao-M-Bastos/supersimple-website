@@ -78,32 +78,30 @@ body {
 }
 
 .header {
-  height: 80px;
-
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-
   position: fixed;
   top: 0px;
   left: 0px;
-  right: 0;
+  right: 0px;
   z-index: 100;
 
   background-color: white;
   border-bottom-width: 1px;
   border-bottom-style: solid;
-  border-bottom-color: rgb(228, 228, 228);
+  border-bottom-color: gray;
 }
 
+.header-flexbox {    
+    display: flex;
+    flex-direction: row;
+}
 
-.span-whiteRoom{
+.span-simulationRoom{
     color:coral;
     cursor:pointer;
     text-decoration:none;
 }
 
-.span-whiteRoom:hover{
+.span-simulationRoom:hover{
     text-decoration:underline;
 }
 
@@ -116,3 +114,6 @@ body {
 .span-clubPainting:hover{
     text-decoration:underline;
 }
+
+
+

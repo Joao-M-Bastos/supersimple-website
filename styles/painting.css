@@ -2,6 +2,7 @@
     width: 500px;
     object-fit: contain;
     display: inline-block;
+
 }
 
 .txt-search{
@@ -19,22 +20,22 @@
 
 .text-painting-info{
     display: inline-block;
-    opacity: 0.8;
+    opacity: 0.7;
 }
 
 .painting-description{
+    display:inline-block;
 }
 
 .painting-image{
     display:inline-block;
+        position: relative;
 }
 
 .painting-body{
     display:inline-block;
     vertical-align: top;
 }
-
-
 
 .painting-preview{
     margin-top: 20px;
